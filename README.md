@@ -30,6 +30,7 @@ Conclusion\
 
 
 
-
+Summarized customer check-in\
+On the check-in day, the customer discussed filtering through the report. They highlighted the importance of showcasing the graphs of money required by the charities and the money that has been donated to them. They emphasized the need to focus on new donors, be it a new donor or an existing one. The customer also suggested that it would be a good idea to demonstrate or implement the feedback received from the donors.
 
 
