@@ -40,6 +40,7 @@ Here are the lists of files we have created so far for this activity.
 - Empathy Maps for each team members:
   - [Mohammed's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20map.png)
   - [Jay's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20Map.jpg)
+  - [Vishv's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Vishvs_Empathy_map.png)
 - Final Empathy Map for the group:
   - [Group Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Group%20Empathy%20map.png)
 3. [User Story Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/Project_sscf_storymap.pdf)
