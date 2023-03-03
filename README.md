@@ -28,9 +28,31 @@ Constraints\
 Conclusion\
   Our goal is to create an interactive experience that provides an overview of the information in an easy-to-digest format such as infographics or storytelling. This will help donors, volunteers, and government officials understand the needs of their community and make informed decisions about where to allocate resources.
 
+------
 
+#### Activity 1:
 
-#### Summarized customer check-in
+For this activity we meet each other as group and discuss what was the customer facing and what discovering Northstar & carryover customers. Also, we started creating our Empathy as individual and then combing to one group map. Next, we stated barnstorming by creating unorganized sticky notes putting them in the tables and started creating them using software like MURAL for more clear view of the notes. Finally, we started doing user story map (USM) using sticky notes and sketches to outline the interactions that the team expects users to go through to complete our goals in a digital product.
+
+Here are the lists of files we have created so far for this activity.
+1. Folder with all files related to [Affinity Diagrams](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Affinity%20Diagrams)
+2. Folder with all files related to [Empathy Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Empathy%20maps)\
+    Empathy Maps for team members:
+* [Mohammed's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20map.png)
+* [Jay's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20Map.jpg)
+* [Group Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Group%20Empathy%20map.png)
+3. [User Story Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/Project_sscf_storymap.pdf)
+ 
+
+##### First check-in meeting with the customer was in Jan.30, 2023 (4:00-5:15)
+**Summarized customer**\
 On the check-in day, the customer discussed filtering through the report. They highlighted the importance of showcasing the graphs of money required by the charities and the money that has been donated to them. They emphasized the need to focus on new donors, be it a new donor or an existing one. The customer also suggested that it would be a good idea to demonstrate or implement the feedback received from the donors.
+
+
+------
+
+#### Activity 2:
+
+
 
 
