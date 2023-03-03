@@ -32,15 +32,16 @@ Conclusion\
 
 #### Activity 1:
 
-For this activity we meet each other as group and discuss what was the customer facing and what discovering Northstar & carryover customers. Also, we started creating our Empathy as individual and then combing to one group map. Next, we stated barnstorming by creating unorganized sticky notes putting them in the tables and started creating them using software like MURAL for more clear view of the notes. Finally, we started doing user story map (USM) using sticky notes and sketches to outline the interactions that the team expects users to go through to complete our goals in a digital product.
+For this activity, we meet each other as group and discuss what was the customer facing and what discovering Northstar & carryover customers. Also, we started creating our Empathy as individual and then combing to one group map. Next, we stated barnstorming by creating unorganized sticky notes putting them in the tables and started creating them using software like MURAL for more clear view of the notes. Finally, we started doing user story map (USM) using sticky notes and sketches to outline the interactions that the team expects users to go through to complete our goals in a digital product.
 
 Here are the lists of files we have created so far for this activity.
 1. Folder with all files related to [Affinity Diagrams](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Affinity%20Diagrams)
-2. Folder with all files related to [Empathy Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Empathy%20maps)\
-    Empathy Maps for team members:
-* [Mohammed's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20map.png)
-* [Jay's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20Map.jpg)
-* [Group Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Group%20Empathy%20map.png)
+2. Folder with all files related to [Empathy Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Empathy%20maps)
+- Empathy Maps for each team members:
+  - [Mohammed's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20map.png)
+  - [Jay's Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Empathy%20Map.jpg)
+- Final Empathy Map for the group:
+  - [Group Empathy Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Empathy%20maps/Group%20Empathy%20map.png)
 3. [User Story Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/Project_sscf_storymap.pdf)
  
 
@@ -53,6 +54,33 @@ On the check-in day, the customer discussed filtering through the report. They h
 
 #### Activity 2:
 
+For this activity, we began creating our first low-fi prototype both individually and as a group using paper and pencil. We created three site maps and prototypes and combined them into one group site map and prototype. Additionally, we provided a one-page document explaining the three topics related to people-centered design that we discussed in class and incorporated them into our prototype. Lastly, we updated our user story map as it had some small changes compared to the previous USM.
 
+Here are the lists of files we have created so far for this activity.
+1. Folder with all files related to [Site Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Sitemaps)
+- Site Maps for each team members:
+  - [Mohammed's Site Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Sitemaps/Mohammed%20Site%20Map.jpg)
+  - [Jay's Site Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Sitemaps/Jay_sitemap.jpeg)
+  - [Vishv's Site Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Sitemaps/Vishv_sitemap.jpg)
+- Final Site Map for the group:
+  - [Group Site Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Sitemaps/Final%20Site%20Map.jpg)
+  
+2. Folder with all files related to [Prototypes](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Empathy%20maps)
+- Prototypes for each team members:
+  - [Mohammed's Prototype](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Mohammed%20Prototype.jpg)
+  - [Jay's Prototype](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Jay_prototype.jpeg)
+  - [Vishv's Prototype](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Vishv_prototype.jpg)
+- Final Prototype for the group:
+  - [Group Prototype](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/final%20prototype.jpg)
+3. [Prototype Document](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Prototype_Documentation.pdf)
+4. [Updated User Story Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/Updated%20User%20Story%20Map.pdf)
+
+##### Second check-in date: Feb.13, 2023 (4:00 pm - 5:15 pm)
+**Summarized customer**\
+During today's check-in meeting with our customer, we were informed about the three main focus areas for the project. The customer emphasized the importance of implementing filtering capabilities to allow users to filter reports based on their location or region preferences. This would provide users with a more personalized experience, as they would only receive reports that are relevant to their specific location or region. The customer also emphasized the need to provide brief summaries of each report, allowing users to get a quick understanding of what each report contains. This would be achieved by using summary cards, which were well received in our prototype. The idea behind this is to provide users with a quick overview of the report and to encourage them to click and read the full report if they are interested in learning more. Another key aspect of the project that the customer focused on, was the use of infographs to display feedback for the reports. These infographs would provide users with a visual representation of the data contained in the reports, making it easier to understand and digest. This would also make the reports more engaging and interesting to read. Finally, the customer informed us that they will be providing us with four reports to work with in the project. Our goal is to implement the filtering and summarization capabilities, as well as the use of infographs, to make these reports accessible and easy to understand for all users. By doing so, we aim to meet the customer's needs and provide them with a valuable and useful product.
+
+------
+
+#### Activity 3:
 
 
