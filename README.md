@@ -1,6 +1,6 @@
 # ENSE-271-Project
 
-## South Saskatchewan Community Foundation Project Document.
+## South Saskatchewan Community Foundation [SSCF](https://sscf.ca/) Project Document. 
 
 Team name: Prototype Hype
 
