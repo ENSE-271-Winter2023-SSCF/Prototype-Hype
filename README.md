@@ -108,4 +108,4 @@ During our third check-in meeting with the customer, things were going quite wel
 During the presentation, we also showcased the filter button and discussed some upcoming features. We asked for suggestions from the customer regarding the filter button, and he proposed that users should be able to search for reports by region, specific reports, year, and/or area.
 Overall, the meeting was productive and provided us with valuable insights that we will use to improve our prototype.
 
-
+-------
