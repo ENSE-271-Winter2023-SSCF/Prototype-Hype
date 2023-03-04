@@ -34,7 +34,7 @@ Conclusion\
 
 For this activity, we meet each other as group and discuss what was the customer facing and what discovering Northstar & carryover customers. Also, we started creating our Empathy as individual and then combing to one group map. Next, we stated barnstorming by creating unorganized sticky notes putting them in the tables and started creating them using software like MURAL for more clear view of the notes. Finally, we started doing user story map (USM) using sticky notes and sketches to outline the interactions that the team expects users to go through to complete our goals in a digital product.
 
-Here are the lists of files we have created so far for this activity.
+Here are the lists of files we have created so far for this activity:
 1. Folder with all files related to [Affinity Diagrams](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Affinity%20Diagrams)
 2. Folder with all files related to [Empathy Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Empathy%20maps)
 - Empathy Maps for each team members:
@@ -47,7 +47,7 @@ Here are the lists of files we have created so far for this activity.
  
 
 ##### First check-in meeting with the customer was in Jan.30, 2023 (4:00-5:15)
-**Summarized customer**\
+**[Summarized customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20customer%20notes%20for%20activity%201.pdf)**\
 On the check-in day, the customer discussed filtering through the report. They highlighted the importance of showcasing the graphs of money required by the charities and the money that has been donated to them. They emphasized the need to focus on new donors, be it a new donor or an existing one. The customer also suggested that it would be a good idea to demonstrate or implement the feedback received from the donors.
 
 
@@ -57,7 +57,7 @@ On the check-in day, the customer discussed filtering through the report. They h
 
 For this activity, we began creating our first low-fi prototype both individually and as a group using paper and pencil. We created three site maps and prototypes and combined them into one group site map and prototype. Additionally, we provided a one-page document explaining the three topics related to people-centered design that we discussed in class and incorporated them into our prototype. Lastly, we updated our user story map as it had some small changes compared to the previous USM.
 
-Here are the lists of files we have created so far for this activity.
+Here are the lists of files we have created so far for this activity:
 1. Folder with all files related to [Site Maps](https://github.com/M-Alharbi/ENSE-271-Project/tree/main/Sitemaps)
 - Site Maps for each team members:
   - [Mohammed's Site Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Sitemaps/Mohammed%20Site%20Map.jpg)
@@ -77,11 +77,35 @@ Here are the lists of files we have created so far for this activity.
 4. [Updated User Story Map](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/Updated%20User%20Story%20Map.pdf)
 
 ##### Second check-in date: Feb.13, 2023 (4:00 pm - 5:15 pm)
-**Summarized customer**\
+**[Summarized customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20customer%20notes%20for%20activity%202.pdf)**\
 During today's check-in meeting with our customer, we were informed about the three main focus areas for the project. The customer emphasized the importance of implementing filtering capabilities to allow users to filter reports based on their location or region preferences. This would provide users with a more personalized experience, as they would only receive reports that are relevant to their specific location or region. The customer also emphasized the need to provide brief summaries of each report, allowing users to get a quick understanding of what each report contains. This would be achieved by using summary cards, which were well received in our prototype. The idea behind this is to provide users with a quick overview of the report and to encourage them to click and read the full report if they are interested in learning more. Another key aspect of the project that the customer focused on, was the use of infographs to display feedback for the reports. These infographs would provide users with a visual representation of the data contained in the reports, making it easier to understand and digest. This would also make the reports more engaging and interesting to read. Finally, the customer informed us that they will be providing us with four reports to work with in the project. Our goal is to implement the filtering and summarization capabilities, as well as the use of infographs, to make these reports accessible and easy to understand for all users. By doing so, we aim to meet the customer's needs and provide them with a valuable and useful product.
 
 ------
 
 #### Activity 3:
+
+In this activity, our team used Figma software to collaboratively create a Hi-Fi prototype. Firstly, we created a group project file on Figma, which allowed every team member to edit the file. Following the customer's request, we began with the desktop version and also included a mobile version as an additional feature.
+
+
+Here are the lists of files we have created so far for this activity:
+- Desktop and Mobile version of the Hi-Fi prototype, which can be found in PDF files. Each page of the PDF file indicates a frame in Figma.
+  - [Hi-Fi prototype Desktop](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Hi-Fi%20Prototype%20Desktop.pdf)
+  - [Hi-Fi prototype Mobile](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Hi-Fi%20Prototype%20Mobile.pdf)
+  
+- Document file that outlines the topics discussed in class and how we implemented them in our Hi-Fi prototype.
+  - [Hi-Fi Design Ideas](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Hifi%20Design%20Idea.pdf)
+  
+- Document of 5 usability questionnaire that we disscussed in the class with Feedbackers group
+  - [name of the file](#)
+
+- User story map can be found [Here](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/User%20story%20map/User%20Story%20Map.pdf)
+
+- Desktop and Mobile version of the Hi-Fi prototype in Figma can be found [Here](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Hi-Fi%20Prototype.fig)
+
+##### Third check-in date: Feb.27, 2023
+**[Summarized customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20customer%20notes%20for%20activity%203.pdf)**\
+During our third check-in meeting with the customer, things were going quite well. We presented our hi-fi prototype, which was almost fully functional, and demonstrated how to navigate through the website. To align the prototype with the customer's website, we created a new tab called "research page" to house all reports. We received a lot of feedback regarding the prototype. One major suggestion was to create a template for the report pages, so that users could easily navigate and use them. Additionally, staff members should be able to edit the reports with ease.
+During the presentation, we also showcased the filter button and discussed some upcoming features. We asked for suggestions from the customer regarding the filter button, and he proposed that users should be able to search for reports by region, specific reports, year, and/or area.
+Overall, the meeting was productive and provided us with valuable insights that we will use to improve our prototype.
 
 
