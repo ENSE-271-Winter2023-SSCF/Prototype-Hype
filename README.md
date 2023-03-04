@@ -102,7 +102,7 @@ Here are the lists of files we have created so far for this activity:
 
 - Desktop and Mobile version of the Hi-Fi prototype in Figma can be found [Here](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Prototypes/Hi-Fi%20Prototype.fig)
 
-##### Third check-in date: Feb.27, 2023
+##### Third check-in date: Feb.27, 2023 (4:40-4:50: Prototype Hype)
 **[Summarized customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20customer%20notes%20for%20activity%203.pdf)**\
 During our third check-in meeting with the customer, things were going quite well. We presented our hi-fi prototype, which was almost fully functional, and demonstrated how to navigate through the website. To align the prototype with the customer's website, we created a new tab called "research page" to house all reports. We received a lot of feedback regarding the prototype. One major suggestion was to create a template for the report pages, so that users could easily navigate and use them. Additionally, staff members should be able to edit the reports with ease.
 During the presentation, we also showcased the filter button and discussed some upcoming features. We asked for suggestions from the customer regarding the filter button, and he proposed that users should be able to search for reports by region, specific reports, year, and/or area.
