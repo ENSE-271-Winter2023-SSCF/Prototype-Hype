@@ -109,3 +109,8 @@ During the presentation, we also showcased the filter button and discussed some 
 Overall, the meeting was productive and provided us with valuable insights that we will use to improve our prototype.
 
 -------
+#### Activity 4 (Last Activity):
+
+In this activity, 
+
+-----
