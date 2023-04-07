@@ -113,7 +113,7 @@ Overall, the meeting was productive and provided us with valuable insights that 
 
 This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the experience, and a list of the WordPress plugins we utilized.
 
-- [WordPress website](https://prototype-hype.softsys.ca/)/
+- [WordPress website](https://prototype-hype.softsys.ca/)
 - [Final Report]()
 
 #### Special thanks to the Project sponsor,
