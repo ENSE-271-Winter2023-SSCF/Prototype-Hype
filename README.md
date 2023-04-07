@@ -111,12 +111,6 @@ Overall, the meeting was productive and provided us with valuable insights that 
 -------
 #### Activity 4 (Last Activity):
 
-This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the experience, and a list of the WordPress plugins we utilized.
-
-- [WordPress website](https://prototype-hype.softsys.ca/)
-- [Final Report]()
-
-#### Special thanks to the Project sponsor,
-Dr. Tim Maciag  
+In this activity, we need to make the final design for SSCF website using Wordpress. We have created the final design using our hi-fi prototype. 
 
 -----
