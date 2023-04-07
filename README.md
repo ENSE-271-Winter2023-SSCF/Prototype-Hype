@@ -111,11 +111,12 @@ Overall, the meeting was productive and provided us with valuable insights that 
 -------
 #### Activity 4 (Last Activity):
 
-This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the experience, and a list of the WordPress plugins we utilized.
+This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the experience, lists of the WordPress plugins we utilized, final presentation slides, and Wordpress backup files. 
 
 - [Our Website](https://prototype-hype.softsys.ca/)
 - [Final Report](#)
 - [Final Presentation](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/FinalPresentation.pdf)
+- [Wordpress Backup Files](http://download.uregina.ca/DownloadAttachment/7cKd8CIl9jGZtXshwFAviFrA53D40H6K7LVMgP6ePQ5S8xzLdxZswW6yhjYQ566G/)
 
 **[Summarized Customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20%20customer%20notes%20for%20activity%204.pdf)**\
 During our Last check-in meeting with the customer, we presented our final design and the customer liked it as it was simple and clean for anyone to use it. Also,he suggested that we can change one thing on our Research Page, we need to put Reports cards above the Impact stories so that the users can read the report first and can see the impact stories later on. He really likes the search option. He also suggested that we can change the design of Report Cards so it will be more clear to users.
