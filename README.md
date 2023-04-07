@@ -111,7 +111,7 @@ Overall, the meeting was productive and provided us with valuable insights that 
 -------
 #### Activity 4 (Last Activity):
 
-This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the experience, lists of the WordPress plugins we utilized, final presentation slides, and Wordpress backup files. 
+This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the project, lists of the WordPress plugins we utilized, final presentation slides, and Wordpress backup files. 
 
 - [Our Website](https://prototype-hype.softsys.ca/)
 - [Final Report](#)
