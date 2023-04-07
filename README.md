@@ -114,7 +114,7 @@ Overall, the meeting was productive and provided us with valuable insights that 
 This is our final activity where we present our completed project to the customer, after working on it for the entire semester. It has been a journey of discovery for us, as we have acquired valuable knowledge and skills. Included below is the final report of the project, our reflections on the project, lists of the WordPress plugins we utilized, final presentation slides, and Wordpress backup files. 
 
 - [Our Website](https://prototype-hype.softsys.ca/)
-- [Final Report](#)
+- [Final Report](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/final_report.pdf)
 - [Final Presentation](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/FinalPresentation.pdf)
 - [Wordpress Backup Files](http://download.uregina.ca/DownloadAttachment/7cKd8CIl9jGZtXshwFAviFrA53D40H6K7LVMgP6ePQ5S8xzLdxZswW6yhjYQ566G/) (The buckup file are available for 30 days, until Saturday, May 6, 2023.)
 
