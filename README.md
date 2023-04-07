@@ -117,7 +117,7 @@ This is our final activity where we present our completed project to the custome
 - [Final Report](#)
 - [Final Presentation](#)
 
-**[Summarized Customer])**\
+**[Summarized Customer](#)**\
 During our Last check-in meeting with the customer, we presented our final design and the customer like it as it was simple and clean for anyone to use it. Also,he suggested that we can change one thing on our Research page we need to put Reports card above the Impact stories so that the users can read the report first and can see the impact stories later on. 
 
 #### Special thanks to the Project sponsor,
