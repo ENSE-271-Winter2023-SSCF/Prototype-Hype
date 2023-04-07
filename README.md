@@ -117,7 +117,7 @@ This is our final activity where we present our completed project to the custome
 - [Final Report](#)
 - [Final Presentation](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/FinalPresentation.pdf)
 
-**[Summarized Customer](#)**\
+**[Summarized Customer](https://github.com/M-Alharbi/ENSE-271-Project/blob/main/Documents/Summarized%20%20customer%20notes%20for%20activity%204.pdf)**\
 During our Last check-in meeting with the customer, we presented our final design and the customer liked it as it was simple and clean for anyone to use it. Also,he suggested that we can change one thing on our Research Page, we need to put Reports cards above the Impact stories so that the users can read the report first and can see the impact stories later on. He really likes the search option. He also suggested that we can change the design of Report Cards so it will be more clear to users.
 
 #### Special thanks to the Project sponsor,
